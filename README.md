@@ -164,3 +164,8 @@ External contributions are only permissible upon prior written approval by IoT-E
 
 This project is licensed under a custom proprietary license. Please contact the project owner for detailed licensing terms and restrictions.
 
+## Flow Node-RED
+
+Voici un aperçu du flow Node-RED utilisé pour ce projet :
+
+![Flow Node-RED](./node-red-flow-screenshot.PNG)
