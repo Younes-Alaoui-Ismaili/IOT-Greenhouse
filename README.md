@@ -1,6 +1,30 @@
 # README for IoT-based Smart Mini Greenhouse
 
 ## Overview
+# README for IoT-based Smart Mini Greenhouse
+
+## Overview
+
+This project is developed and maintained by IoT-Experts as part of a professional contract under Canadian law. It adheres to advanced architectural software principles, showcasing our expertise in scalable IoT solutions for agricultural applications.
+
+...
+
+## Installation et Configuration
+
+### 1. Prérequis
+
+Assurez-vous d’avoir les outils suivants installés sur votre système :
+...
+
+(suite des instructions détaillées que j'ai données)
+
+---
+
+## Architectural Diagram
+
+Below is a high-level architectural overview of the Smart Greenhouse system:
+
+...
 
 This project is developed and maintained by IoT-Experts as part of a professional contract under Canadian law. It adheres to advanced architectural software principles, showcasing our expertise in scalable IoT solutions for agricultural applications.
 
